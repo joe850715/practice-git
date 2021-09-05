@@ -3,3 +3,4 @@ second commit
 --no-ff test
 重新測試
 123
+--no-ff test2
