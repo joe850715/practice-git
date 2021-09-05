@@ -1,6 +1,10 @@
 first commit
+<<<<<<< HEAD
 second commit
 --no-ff test
 重新測試
 123
 --no-ff test2
+=======
+second commit
+>>>>>>> fa54532cc4e2cd37ace88b863529ef1de91d4bb2
